@@ -5,12 +5,10 @@
     rel="stylesheet"
     href="styles.css"
 />
-</html>
 <body>
-<div> {
-    background-color: blue;
+.main-section {
+    border: 3px dashed purple;
     text-align: center;
-    color: red;
+    font-size: 24px;
 }
-</head>
-</div>
+</html>
