@@ -1,13 +1,10 @@
-*{
-    margin: 0;
-    padding: 0;
+body {
+    background-color: #000; 
+    color: white; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-variant: small-caps;
 }
-.header{
-    min-height: 100vh;
-    width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/flag.png)
-    ;
-    background-position: center;
-    background-size: cover;
-    position: relative;
+div {
+    background: white;
+    overflow:hidden;
 }
