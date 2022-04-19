@@ -1,10 +1,12 @@
 body {
+    background-image: url("https://wallpaperaccess.com/full/51363.jpg");
     background-color: #000; 
     color: white; 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
     font-variant: small-caps;
 }
-div {
-    background: white;
-    overflow:hidden;
+h1 {
+    color: red;
+    font-size: 40px;
+    background-position: center;
 }
